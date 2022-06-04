@@ -1,4 +1,4 @@
-# Implementado_RepositoryPattern
+# Implementação do Padrão de Projeto Repository Pattern
 
 Nesse projeto implementei o padrão de projeto Repository Pattern de uma forma diferente que vinha programando. Dessa maneira não é necessário ficar repetindo código
 nos repositórios. E além de não repetir, não é necessário implementar funcionalidades que não faz sentido no repositório.
